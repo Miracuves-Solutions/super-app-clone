@@ -1,11 +1,11 @@
 # Super App Clone — White-Label Multi-Service Super App Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxsuperapp.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/super-app-clone/)
 [![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/super-app-clone/#pricing)
 [![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
 
-**MXDemo** is a production-ready, white-label Super App clone: a complete multi-service super app with ride, food, parcel, wallet, and admin console — delivered with **100% source code ownership** in **6 working days**.
+**MXSuperApp** is a production-ready, white-label Super App clone: a complete multi-service super app with ride, food, parcel, wallet, and admin console — delivered with **100% source code ownership** in **6 working days**.
 
 > 🌐 **See it running before you talk to anyone.** Live super-app with multiple verticals — demo credentials are printed on the [solution page](https://miracuves.com/super-app-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Super App | [mas.mimeld.com](https://mas.mimeld.com) | Ride, food, parcel, pay, bill, booking — one app |
-| 🌐 Web Portal | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Full super-app in browser |
+| 🌐 Web Portal | [mxsuperapp.mimeld.com](https://mxsuperapp.mimeld.com) | Full super-app in browser |
 | 🛠️ Provider Dashboard | [Solution page → Demo](https://miracuves.com/super-app-clone#demo) | Restaurant/driver/merchant ops & payouts |
 | 🏢 Admin Console | [Solution page → Demo](https://miracuves.com/super-app-clone#demo) | Verticals, pricing, commissions, fraud, analytics |
 
@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/super-app-clone → Demo
 Most super-app attempts stop at "single vertical." This platform ships with multiple verticals out of the box — same architecture Gojek and Grab run on:
 
 - **Modular Vertical Engine** — add or remove verticals (ride, food, parcel, pay) without redeploying — same architecture Gojek and Grab built on
-- **Unified Wallet & Identity** — 
-- **Cross-Vertical Loyalty** — one wallet works across all verticals, with cashback engine that credits back per vertical — what makes GrabPay and GoPay stick
-- **Dispatch-as-a-Service** — local payment, KYC, eKTP, KYC-by-selfie, utility bill providers pre-integrated per region
-- **Local Partner Integrations** — shared dispatch engine reusable across ride/parcel — not per-vertical
+- **Unified Wallet & Identity** — one wallet works across all verticals, with cashback engine that credits back per vertical — what makes GrabPay and GoPay stick
+- **Cross-Vertical Loyalty** — points earned in food can be redeemed in ride, parcel, etc. — drives cross-vertical retention
+- **Dispatch-as-a-Service** — shared dispatch engine reusable across ride/parcel — not per-vertical
+- **Local Partner Integrations** — local payment, KYC, eKTP, KYC-by-selfie, utility bill providers pre-integrated per region
 
 ## 📦 Core Features
 
@@ -106,9 +106,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Super App Clone
-{MX_NAME}         MXDemo
+{MX_NAME}         MXSuperApp
 {CATEGORY}        Multi-Service Super App Platform
-{DEMO_WEB}        mxdemo.mimeld.com
+{DEMO_WEB}        mxsuperapp.mimeld.com
 {PRICE}           $6,699
 {SLUG}            super-app-clone
 {SOLUTION_URL}    https://miracuves.com/super-app-clone/
