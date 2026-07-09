@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$6,699**, transparent on the [solution page](https://miracuves.com/super-app-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$3,699**, transparent on the [solution page](https://miracuves.com/super-app-clone/#pricing) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -109,7 +109,7 @@ TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 {MX_NAME}         MXSuperApp
 {CATEGORY}        Multi-Service Super App Platform
 {DEMO_WEB}        mxsuperapp.mimeld.com
-{PRICE}           $6,699
+{PRICE}           $3,699
 {SLUG}            super-app-clone
 {SOLUTION_URL}    https://miracuves.com/super-app-clone/
 {VERTICAL}        super_app
