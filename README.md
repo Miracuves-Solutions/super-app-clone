@@ -1,11 +1,11 @@
 # Super App Clone — White-Label Multi-Service Super App Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxsuperapp.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/super-app-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/super-app-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/super-app-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/super-app-clone/#features)
 
-**MXSuperApp** is a production-ready, white-label Super App clone: a complete multi-service super app with ride, food, parcel, wallet, and admin console — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Super App clone: a complete multi-service super app with ride, food, parcel, wallet, and admin console — delivered with **100% source code ownership** in **6 working days**.
 
 > 🌐 **See it running before you talk to anyone.** Live super-app with multiple verticals — demo credentials are printed on the [solution page](https://miracuves.com/super-app-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Super App | [mas.mimeld.com](https://mas.mimeld.com) | Ride, food, parcel, pay, bill, booking — one app |
-| 🌐 Web Portal | [mxsuperapp.mimeld.com](https://mxsuperapp.mimeld.com) | Full super-app in browser |
+| 🌐 Web Portal | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Full super-app in browser |
 | 🛠️ Provider Dashboard | [Solution page → Demo](https://miracuves.com/super-app-clone#demo) | Restaurant/driver/merchant ops & payouts |
 | 🏢 Admin Console | [Solution page → Demo](https://miracuves.com/super-app-clone#demo) | Verticals, pricing, commissions, fraud, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$3,699**, transparent on the [solution page](https://miracuves.com/super-app-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$3,699**, transparent on the [solution page](https://miracuves.com/super-app-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom super-apps run $300k–$2M and 12–24 months. A proven multi-vertical ba
 ## 📚 Resources
 
 - 📖 [Super App Clone — Full Solution Page](https://miracuves.com/super-app-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Super App Cost in 2026?](https://miracuves.com/super-app-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Super App Clone Script in 2026](https://miracuves.com/super-app-clone/blog/) features, pricing & launch guide
-- 🧠 [Modular Vertical Architecture: Lessons from Gojek & Grab](https://miracuves.com/super-app-clone/blog/) microservices for super-apps
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/super-app-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Super App Cost in 2026?](https://miracuves.com/super-app-clone#features) pricing breakdown & what's included
+- 📝 [Best Super App Clone Script in 2026](https://miracuves.com/super-app-clone#features) features, pricing & launch guide
+- 🧠 [Modular Vertical Architecture: Lessons from Gojek & Grab](https://miracuves.com/super-app-clone#features) microservices for super-apps
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/super-app-clone#faq) every claim we make, verified
+- 💻 [Super App Clone — Technical Stack](https://miracuves.com/super-app-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Super App Clone — How It Works / User Flow](https://miracuves.com/super-app-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom super-apps run $300k–$2M and 12–24 months. A proven multi-vertical ba
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/super-app-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/super-app-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: super app clone, super app clone script, super app, multi-service, white label Gojek, multi-vertical, Flutter super app, Node.js microservices*
 
@@ -106,9 +108,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Super App Clone
-{MX_NAME}         MXSuperApp
+{MX_NAME}         MXDemo
 {CATEGORY}        Multi-Service Super App Platform
-{DEMO_WEB}        mxsuperapp.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $3,699
 {SLUG}            super-app-clone
 {SOLUTION_URL}    https://miracuves.com/super-app-clone/
